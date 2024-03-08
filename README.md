@@ -4,7 +4,7 @@
 ## Technologies used
 #### Node.js, react.js,Express.js,vite.js, MongoDB,redux
 
-## For start the projcet command 
+## For start the project command 
 ### Backend 
  ##### npm install
  ##### npm start
